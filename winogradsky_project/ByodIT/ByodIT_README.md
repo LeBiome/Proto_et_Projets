@@ -117,7 +117,7 @@ Pour réaliser cette solution tampon, il faut préparer une solution d'hydrogén
 * 7 Bandes à led multicolore
 * Collaboration avec un espace de fabrication numérique
 
-## 2dn step / 2ème étape
+## 2nd step / 2ème étape
 
 Le dispositif intéragit avec les influences des activités humaines sur le jardin publique car elles moditfient la vie de la microflore de l'espace.
 Le dispositif est construit, implanté et mis en ouevre par des pairs avec des outils numériques.
