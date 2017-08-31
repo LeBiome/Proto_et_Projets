@@ -1,53 +1,65 @@
+---
+title: Notes sur Biomatériaux
+descritpion: pour le projet Posidonia
+image_url:
+---
+
 # Biomatériaux pour [Meadow & Energy](/Algae-Energy-ef1LBxOM4Fm) 
  
 Quelques définitions:
  
 **Agromatériau**
 = matériau provenant de ressources agricoles
+
 **Matériau biodégradable**
 = matériau dégradable par des êtres vivants, aboutissant à la formation de
 composés minéraux, de CO2, H2O et CH4, et d’une nouvelle biomasse
+
 **Matériau compostable**
 = matériau dégradable et assimilable biologiquement
 dans des conditions contrôlées de compostage
+
 **Biopolymère**
 = polymère issu de la biomasse (*i.e.* d’origine renouvelable)
+
 **Biomatériau**
 = matériau compatible avec le vivant (lors de son utilisation), matériau en lien
 avec le domaine du vivant
+
 **Dégradation**
 = processus irréversible apportant des changements significatifs de la
 structure du matériau.
+
 **Biodégradation**
 = dégradation du matériau par les micro-organismes selon les étapes:
-**Biofragmentation**
++ **Biofragmentation**
 = La biofragmentation est la fragmentation d'un matériau engendrée par un processus biologique qui nécessite la présence de micro-organismes et d'humidité. Par exemple, un produit constitué de matière issue de ressources renouvelables type [amidon](https://fr.wikipedia.org/wiki/Amidon) et d'un matériau biorésistant sera par [hydrolyse](https://fr.wikipedia.org/wiki/Hydrolyse) de la partie végétale biofragmenté.Il en résulte des fragments persistants dans l'environnement. On parle aussi de désintégration du matériau.
-******Bioassimilation**
++ **Bioassimilation**
 = L'accumulation d'une substance dans un habitat, un organisme
-******Biominéralisation**
++ **Biominéralisation**
 = les organismes vivants produisent des [minéraux](https://fr.wikipedia.org/wiki/Min%C3%A9raux), souvent afin de durcir ou raidir leurs tissus pour former des tissus minéralisés. Ce terme désigne aussi « toute structure minérale élaborée par un organisme vivant »
-**Photodégradation**
++ **Photodégradation**
 = Dégradation dont le mécanisme primaire s ’effectue sous l ’action de la
 lumière (rayonnements visible et UV)
 
 
 ## 3 cycles du Bio dans cycle de vie des matériaux
 
- 
 Le «bio» à trois niveaux dans le cycle de vie du matériaux
-BIO 1
+1. BIO 1
 **Origine des matériaux**
 **naturelle** / fossile
-BIO 2
+2. BIO 2
 **Synthèse**
 **biosynthèse** / catalyse chimique
-BIO 3
+3. BIO 3
 **fin de vie**
 **biodégradation** / conventionnelle
  
 
-# **Sources de** **Latex naturel**
-1. ***Agoseris glauca*****: Mountain Dandelion**
+## Sources de Latex naturel
+
+### 1. Agoseris glauca: Mountain Dandelion
 
 Agoseris glauca provient de l'Amérique du Nord.
 Culture :
@@ -58,26 +70,26 @@ Les arbrisseaux préfèrent une exposition ensoleillée. Le substrat doit être 
 - tolérance moyenne: sols temporairement secs, sols calcaires
 
 
-2. ***Apios americana*****: Ground Nut**
+### 2. Apios americana: Ground Nut
 
 La **glycine tubéreuse** (*Apios americana*, syn. *Apios tuberosa*), aussi appelée « [haricot](https://fr.wikipedia.org/wiki/Haricot) sauvage », « haricot-pomme de terre » ou « patates en chapelet », est une espèce de [plantes vivaces](https://fr.wikipedia.org/wiki/Plante_vivace) de la famille des [*Fabaceae*](https://fr.wikipedia.org/wiki/Fabaceae) qui pousse naturellement dans les parties méridionales de l'[Amérique du Nord](https://fr.wikipedia.org/wiki/Am%C3%A9rique_du_Nord).
 Un terrain léger et chaud, même acide, est celui qui lui convient le mieux. Elle donne rarement des fruits sous climat froid ou venteux mais elle ne se multiplie pas moins abondamment. Ses racines donnent de nombreuses tiges dont chacune, séparée en automne, fournit un nouveau pied l'année suivante, et chaque tubercule de ces racines peut remplir le même objet, lorsqu'on arrache le pied en entier. Le plus grand inconvénient de cette plante, c'est que ses tiges ne sortent pas de terre toutes les années à la même place et que par conséquent on n'est jamais certain de pouvoir leur donner la disposition convenable.
 La glycine tubéreuse se reproduit à partir d'un tubercule-mère ou de graines récoltées dans les gousses. Les tubercules sont récoltables à partir de la deuxième année.
 
 
-3. ***Apocynum androsaemifolium*****: Spreading Dogbane**
+### 3. Apocynum androsaemifolium: Spreading Dogbane
 
 L'**apocyne à feuilles d'androsème** (*Apocynum androsaemifolium*) possède un [rhizome](https://fr.wikipedia.org/wiki/Rhizome_%28botanique%29) horizontal, des [feuilles](https://fr.wikipedia.org/wiki/Feuille) opposées simples, entières, ovales et pointues. Les fleurs sont de petites cloches roses en [cymes](https://fr.wikipedia.org/wiki/Cyme) terminales ou axillaires. Les fruits sont en [follicules](https://fr.wikipedia.org/wiki/Follicule_%28botanique%29) grêles, allongés et cylindriques. Ses graines sont nombreuses et munies de longues [aigrettes](https://fr.wikipedia.org/wiki/Pappus_%28botanique%29). On l'appelle communément herbe à la puce au Québec et gobe-mouche en France. Il s'agit d'une espèce indigène à l'Amérique du Nord, notamment au Québec[1](https://fr.wikipedia.org/wiki/Apocyne_%C3%A0_feuilles_d%27andros%C3%A8me#cite_note-1). La sève de cette plante peut induire une dermatite allergique lors de son contact avec peau chez certaines personnes. L'apocynamarine contenue dans le rhizome peut causer des intoxications produisant des vomissements ou encore la mort chez les humains ainsi que les animaux domestiques
 
 
-4. ***Apocynum cannabinum*****: Indian Hemp** 
+### 4. Apocynum cannabinum : Indian Hemp
 ![](https://homeopathie-conseils.fr/img/plantes/245.jpg)
 
 
 Apocynum cannabinum est une plante vivace, herbacée, qui pousse originaire d'Amérique du Nord. Il s'agit d'un poison végétal : Apocynum signifie « toxique pour les chiens ». Toutes les parties de la plante sont toxiques et peuvent provoquer un arrêt cardiaque en cas d'ingestion. Apocynum est également utilisé en phytothérapie pour traiter la syphilis, les rhumatismes, les vers intestinaux, la fièvre, l'asthme, et la dysenterie . Bien que les toxines de la plante peuvent causer des nausées elle a également été utilisée pour ralentir le pouls.
 
 
-5. ***Asclepias asperula*****: Antelope Horns** 
+### 5. Asclepias asperula: Antelope Horns 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Asclepias-asperula.jpg/220px-Asclepias-asperula.jpg)
 
 
@@ -86,7 +98,7 @@ Les espèces du genre asclépias produisent des [graines](https://fr.wikipedia.o
 L’asclépiade produit un jus laiteux, appelé [latex](https://fr.wikipedia.org/wiki/Latex_%28botanique%29), qui contient des [alcaloïdes](https://fr.wikipedia.org/wiki/Alcalo%C3%AFde), du [terpène](https://fr.wikipedia.org/wiki/Terp%C3%A8ne), et plusieurs autres composés complexes. Attention toutefois car certaines espèces sont [toxiques](https://fr.wikipedia.org/wiki/Toxique)
 
 
-6. ***Asclepias brachystephana*** ****
+### 6. Asclepias brachystephana
 
 Les **asclépiades**, du genre ***Asclepias***, plantes herbacées vivaces [dicotylédones](https://fr.wikipedia.org/wiki/Dicotyl%C3%A9done) regroupent plus de 140 [espèces](https://fr.wikipedia.org/wiki/Esp%C3%A8ce) inventoriées. Appartenant à la famille des [Asclépiadacées](https://fr.wikipedia.org/wiki/Asclepiadaceae) selon la [classification classique](https://fr.wikipedia.org/wiki/Classification_classique), elles sont maintenant réunies dans une sous-famille des [Apocynacées](https://fr.wikipedia.org/wiki/Apocynaceae), les Asclepiadoideae, selon la [classification phylogénétique](https://fr.wikipedia.org/wiki/Classification_APG).
 [Carl von Linné](https://fr.wikipedia.org/wiki/Carl_von_Linn%C3%A9) nomma le genre d’après le dieu grec de la médecine [Asclépios](https://fr.wikipedia.org/wiki/Ascl%C3%A9pios), cette plante possédant de nombreuses vertus en [phytothérapie](https://fr.wikipedia.org/wiki/Phytoth%C3%A9rapie).
@@ -95,13 +107,13 @@ Les espèces du genre asclépias produisent des [graines](https://fr.wikipedia.o
 L’asclépiade produit un jus laiteux, appelé [latex](https://fr.wikipedia.org/wiki/Latex_%28botanique%29), qui contient des [alcaloïdes](https://fr.wikipedia.org/wiki/Alcalo%C3%AFde), du [terpène](https://fr.wikipedia.org/wiki/Terp%C3%A8ne), et plusieurs autres composés complexes. Attention toutefois car certaines espèces sont [toxiques](https://fr.wikipedia.org/wiki/Toxique)
 
 
-7. ***Asclepias californica*****: California Milkweed** 
+### 7. Asclepias californica : California Milkweed
 
 Asclepias californica est une espèce d'amande végétale connue sous le nom commun d'Amérique du Sud. Il se développe dans le nord, le centre et le sud de la Californie.
 Cette plante a été consommée comme des bonbons par les tribus Kawaiisu de Californie indigène; La sève laiteuse dans les feuilles est savoureuse et mâchée lorsqu'elle est cuite, mais peut être toxique lorsqu'elle est crue.
 
 
-8. ***Asclepias decumbens*** ****
+### 8. Asclepias decumbens
 
 une espèce d'amidon d'Amérique du Sud originaire de l'est de l'Amérique du Nord. Il s'agit d'une plante vivace qui atteint 0,3-1 mètre (1 pi 0 dans 3 pieds 3 po) de hauteur, avec des fleurs orange ou jaune en grappe du début de l'été au début de l'automne. Les feuilles sont disposées en spirale, lancéolées, de 5 à 12 cm de long et 2-3 cm de large.
 Cette plante préfère le sol sec, sable ou gravier, mais a également été signalée sur les marges de courant. Il nécessite plein soleil.
@@ -109,12 +121,12 @@ Il est communément connu sous le nom de mauvaises herbes papillons à cause des
 L'utilisation de la plante est contre-indiquée pendant la grossesse, pendant l'allaitement ou chez les nourrissons en raison de la faible quantité de glycosides cardiaques. 
 
 
-9. ***Asclepias eriocarpa*****: Woollypod Milkweed** 
+### 9. Asclepias eriocarpa: Woollypod Milkweed 
 
 une plante herbacée érigée habituellement recouverte d'une épaisse couche de poils blancs. Les feuilles sont en forme de lance en ovale, ondées et disposées de manière opposée par paires ou dans des verticilles de 3 ou 4. L'inflorescence est un grand groupe de fleurs semblables à des ombres. Chaque fleur est blanche à la crème et habituellement teinté de rose vif. Il a une gamme centrale de capots arrondis et une corolle réfléchie contre la tige. Le fruit est un grand follicule laineux.
 
 
-10. **Les autres Asclepia**
+### 10. Les autres Asclepia conteant du latex
 - *Asclepias erosa*: Desert Milkweed 
 - *Asclepias galioides*: Bedstraw Milkweed 
 - *Asclepias hallii*: Purple Silkweed 
@@ -136,19 +148,19 @@ une plante herbacée érigée habituellement recouverte d'une épaisse couche de
 - *Asclepias viridiflora*: Green Milkweed 
 
 
-11. ***Chrysothamnus graveolens*****: Rubber Rabbitbrush**
+### 11. Chrysothamnus graveolens: Rubber Rabbitbrush
 
 un arbuste nord-américain dans la famille des tournesols. Il pousse dans les régions arides de l'ouest du Canada, de l'ouest des États-Unis (des grandes plaines occidentales vers le Pacifique) et du nord du Mexique.
 Deux sous-espèces ont été décrites, la nauseasie (la forme grise avec 14 variétés) et les consimilis (la forme verte avec 8 variétés). 
 “La brosse à lapins” en caoutchouc a été déplacée du genre Chrysothamnus au genre Ericameria dans un article de 1993, du aux résultats d'une étude phylogénétique en 2003 d'Ericameria étaient compatibles avec le déplacement de  Rubber Rabitbrbrush en caoutchouc de Chrysothamnus à Ericameria.
 
 
-12. **Les Rubber Rabbitbrush similaires**
+### 12. Les Rubber Rabbitbrush similaires
 - *Chrysothamnus nauseosus*: Rubber Rabbitbrush
 - *Chrysothamnus viscidiflorus*: Green Rabbitbrush 
 
 
-13. ***Cynanchum acutum***
+### 13. Cynanchum acutum
 
 *Cynanchum acutum*, la **Scammonée de Montpellier** est une plante herbacée méditerranéenne de la famille des [Asclépiadacées](https://fr.wikipedia.org/wiki/Ascl%C3%A9piadac%C3%A9e).
 
@@ -156,12 +168,12 @@ Deux sous-espèces ont été décrites, la nauseasie (la forme grise avec 14 var
 
 
 
-14. ***Eucommia ulmoides*****: Gutta-Percha** 
+### 14. Eucommia ulmoides: Gutta-Percha
 
 ou **Arbre à gomme**, est la seule espèce du [genre](https://fr.wikipedia.org/wiki/Genre_%28biologie%29) *Eucommia*. Ce sont des [arbres](https://fr.wikipedia.org/wiki/Arbre) à [latex](https://fr.wikipedia.org/wiki/Latex_%28botanique%29), à feuilles caduques, des régions tempérées, probablement originaires de [Chine](https://fr.wikipedia.org/wiki/Chine).
 
 
-15. ***Euonymus europaeus*****: Spindle Tree** 
+### 15. Euonymus europaeus: Spindle Tree
 
 Le fusain d'Europe trouve à l'état naturel dans une grande partie de l'Europe, de la Suède du centre de l'Espagne et jusqu'en Sibérie occidentale, plutôt dans les plaines et jusque 800 mètres d'altitude.
 C'est un arbuste, très rustique, de taille raisonnable, à croissance lente, au port plutôt élancé et irrégulier. Peu exigeant sur la qualité du sol, il préfère malgré tout les terres bien drainées mais fraiches surtout quand il fait très chaud.
@@ -174,8 +186,7 @@ L'enveloppe des graines donnait une [teinture](https://fr.wikipedia.org/wiki/Tei
 La [décoction](https://fr.wikipedia.org/wiki/D%C3%A9coction) des fruits servait à se blondir les cheveux
 
 
-16. **Les autres Euonymus**
-
+### 16. Les autres Euonymus
 
 - *Euonymus hamiltonianus* 
 - *Euonymus hamiltonianus maackii* 
@@ -185,7 +196,7 @@ La [décoction](https://fr.wikipedia.org/wiki/D%C3%A9coction) des fruits servait
 - *Euonymus verrucosus* 
 
 
-17. ***Euphorbia lathyris*****: Caper Spurge** 
+### 17. Euphorbia lathyris : Caper Spurge
 
 L'**épurge** ou **euphorbe épurge**[1](https://fr.wikipedia.org/wiki/%C3%89purge#cite_note-1) est une [plante herbacée](https://fr.wikipedia.org/wiki/Plante_herbac%C3%A9e) bisannuelle assez commune en [Europe](https://fr.wikipedia.org/wiki/Europe), parfois cultivée dans les [jardins](https://fr.wikipedia.org/wiki/Jardin).
 Comme toutes les euphorbes, la plante laisse s'écouler un [latex](https://fr.wikipedia.org/wiki/Latex_%28mat%C3%A9riau%29) blanc quand on la coupe.
@@ -194,26 +205,24 @@ L'huile extraite des graines a été utilisée pour l'éclairage.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/%C3%89purge_feuilles01.jpg/250px-%C3%89purge_feuilles01.jpg)
 
 
-
-
-17. ***Hymenoxys richardsonii*****: Pingue Hymenoxys** 
+### 17. Hymenoxys richardsonii: Pingue Hymenoxys
 
 Des plantes dans la famille du tournesol. Il est répandu dans l'ouest des États-Unis et dans l'ouest du Canada, de l'Arizona, du Nouveau-Mexique et de l'ouest du Texas, jusqu'à l'Alberta et la Saskatchewan.
 Le latex obtenu à partir de la racine est une source commerciale potentielle
 
 
-18. ***Marsdenia tenacissima*****: Rajmahal Hemp**
+### 18. Marsdenia tenacissima : Rajmahal Hemp
 
 Une fibre solide peut être obtenue à partir de l'écorce de jeunes pousses. Il est utilisé pour fabriquer une corde. Les tiges produisent des fibres très fortes, réputées parmi les plus fortes produites par rapport à n'importe quelle plante, qui sont utilisées pour fabriquer des cordes et des cordes. Un latex (la sève laiteuse coagulée) est obtenu à partir de la tige. Il peut être utilisé comme base pour du caoutchouc.
 
 
-18. ***Nerium oleander*****: Oleander**
+### 18. Nerium oleander: Oleander
 
 Le **Laurier-rose** (***Nerium oleander***) est une [espèce](https://fr.wikipedia.org/wiki/Esp%C3%A8ce) d'arbustes ou de petits arbres de la famille des [Apocynacées](https://fr.wikipedia.org/wiki/Apocynaceae). Cette espèce est présente sur les deux rives de la [Méditerranée](https://fr.wikipedia.org/wiki/M%C3%A9diterran%C3%A9e) mais de façon plus éparse sur la rive nord. Il s'agit de la seule espèce du genre ***Nerium***. Cette plante est parfois appelée **Oléandre** et plus rarement **Rosage**, **Nérion** ou **Lauraine**
 Attention je suis très toxique, par la présence d'hétérosides cardiotoxiques et cardiotoniques, d'acide gallique, toutes les parties de ma plante le sont, ainsi l'ingestion d'une simple feuille peut s'avérer mortelle. L'eau dans laquelle aura été mit des branches ou des racines de laurier rose devient aussi toxique que l'ingestion de son latex, ou de son feuillage.
 
 
-18. ***Parthenium argentatum*****: Guayule**
+### 18. Parthenium argentatum: Guayule
 
 Le **guayule** est une [espèce](https://fr.wikipedia.org/wiki/Esp%C3%A8ce) de [plantes](https://fr.wikipedia.org/wiki/Plante) [dicotylédones](https://fr.wikipedia.org/wiki/Dicotyl%C3%A9done) de la [famille](https://fr.wikipedia.org/wiki/Famille_%28biologie%29) des [*Asteraceae*](https://fr.wikipedia.org/wiki/Asteraceae), originaires d'[Amérique](https://fr.wikipedia.org/wiki/Am%C3%A9rique), plus précisément du [Mexique](https://fr.wikipedia.org/wiki/Mexique).
 Le guayule, qui poussait à l'origine uniquement dans les plaines arides du Mexique, s'adapte très bien aux régions du pourtour méditerranéen ainsi qu'en Europe de l'Ouest.
@@ -222,14 +231,14 @@ Actuellement, PanAridus et Yulex sont les seuls producteurs commerciaux de caout
 En octobre 2015, la Bridgestone Corporation a annoncé la création des premiers pneus entièrement en caoutchouc guayule, ayant construit un centre expérimental de recherche agricole et de biorubber à Mesa, en Arizona, l'année précédente. Le guayule est cultivé à Mesa et Eloy, en Arizona
 
 
-19. ***Scorzonera acanthoclada*****: Teke-Saghyz**
+### 19. Scorzonera acanthoclada : Teke-Saghyz
 
 Scorzonera est un genre de famille de tournesol (Asteraceae), sous-famille Lactucoideae, tribu Lactuceae, subtot Scorzonerinae. Il comprend environ 100 espèces, dont la plus connue est la salsifie noire comestible (Scorzonera hispanica).
 
 [Méthode pour améliorer la récolte du latex](http://www.google.mk/patents/EP2055782B1?cl=fr) des plantes laticifères ou des parties de celles-ci en utilisant des plantes laticifères modifiées génétiquement ou des parties de celles-ci contenant au moins une séquence nucléotidique hétérologues codant pour au moins une molécule d'ARNi qui interfère avec l'activité polyphenoloxidase (PPO) spécifique du latex, résultant dans un temps de polymérisation retardé ou une amélioration de la fluidité [...]
 
 
-20. **Les autres  Scorzonera**
+### 20. Les autres  Scorzonera
 - *Scorzonera albicaulis*
 - *Scorzonera divaricata*
 - *Scorzonera hissaricata*
@@ -240,14 +249,14 @@ Scorzonera est un genre de famille de tournesol (Asteraceae), sous-famille Lactu
 - *Scorzonera virgata* 
 
 
-21. ***Solidago canadensis scabra*****: Canadian Goldenrod** 
+### 21. Solidago canadensis scabra: Canadian Goldenrod
 
 ***Solidago*** est un [genre](https://fr.wikipedia.org/wiki/Genre_%28biologie%29) de plantes à fleurs de la famille des [*Asteraceae*](https://fr.wikipedia.org/wiki/Asteraceae) communément appelées **solidages**, **verges d'or** ou **gerbes d'or**.
 Il existe près de 125 [espèces](https://fr.wikipedia.org/wiki/Esp%C3%A8ces) de ce genre qui poussent en [Amérique du Nord](https://fr.wikipedia.org/wiki/Am%C3%A9rique_du_Nord) aussi bien qu'en [Europe](https://fr.wikipedia.org/wiki/Europe) où elles ont été introduites depuis environ 250 ans (localement, elles peuvent y devenir envahissantes).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solidago_virgaurea_minuta0.jpg/220px-Solidago_virgaurea_minuta0.jpg)
 
-21. **Les autres  Solidago**
+### 22. Les autres  Solidago
 
 [*Solidago virgaurea*](https://fr.wikipedia.org/wiki/Solidago_virgaurea) *minuta*
 Ce genre se différencie essentiellement des [asters](https://fr.wikipedia.org/wiki/Aster_%28genre%29) parce que ses fleurs sont toujours jaunes.
@@ -260,13 +269,15 @@ Une source de latex, contenue dans les feuilles. Une bonne source de caoutchouc 
 - *Sonchus oleraceus*: Sow Thistle 
 
 
-23. **Taraxacum**
+### 23. Taraxacum
 
 Taraxacum est un genre de plantes dicotylédones anémochores appartenant à la vaste famille des Asteraceae (Composées). C'est le genre des « pissenlits » véritables.
 *Taraxacum* provient peut-être du [grec ancien](https://fr.wikipedia.org/wiki/Grec_ancien) τάραξις / *táraxis*, qui désignait une inflammation de l'œil (le latex du pissenlit passait en effet pour calmer les irritations oculaires) et *akeomai*, « guérir ». En raison de sa consommation dans des salades, certains auteurs considèrent que ce nom est une corruption arabe du mot grec *trogemon* signifiant comestible. À moins qu'il ne provienne plus directement de l'[arabe](https://fr.wikipedia.org/wiki/Arabe) *tharakhchakon*, qui désignait une plante semblable au pissenlit commun
 
 Dans la famille des Astéracées, les pissenlits appartiennent à la sous-famille des [*Lactucoideae*](https://fr.wikipedia.org/w/index.php?title=Lactucoideae&action=edit&redlink=1), à cause du [latex](https://fr.wikipedia.org/wiki/Latex_%28mat%C3%A9riau%29) qu'ils contiennent[7](https://fr.wikipedia.org/wiki/Taraxacum#cite_note-7).
 Ce latex renferme un principe amer, la lactupicrine, [lactone sesquiterpénique](https://fr.wikipedia.org/w/index.php?title=Lactone_sesquiterp%C3%A9nique&action=edit&redlink=1) [(en)](https://en.wikipedia.org/wiki/Sesquiterpene_lactone) soupçonnée d'être à l'origine d'une [allergie de contact](https://fr.wikipedia.org/wiki/Allergie)[8](https://fr.wikipedia.org/wiki/Taraxacum#cite_note-8).
+
+### 24. Les uatres Taraxacum conteant du latex
 
 - [*Taraxacum borealisinense*](https://fr.wikipedia.org/w/index.php?title=Taraxacum_borealisinense&action=edit&redlink=1) Kitam. - Pissenlit du nord de la Chine (Sibérie, Mongolie, Chine)
 - [*Taraxacum californicum*](https://fr.wikipedia.org/w/index.php?title=Taraxacum_californicum&action=edit&redlink=1) [Munz](https://fr.wikipedia.org/wiki/Munz) & [I.M.Johnst.](https://fr.wikipedia.org/wiki/Ivan_Murray_Johnston) - Pissenlit de Californie
@@ -308,9 +319,7 @@ Trois espèces sont [endémiques](https://fr.wikipedia.org/wiki/End%C3%A9misme) 
 
  
 
-# **Fibres végétales**
-
- 
+## Fibres végétale
 
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.266912_1449844462500_chanvre.PNG?fit=max&w=882)
 
@@ -319,30 +328,20 @@ Trois espèces sont [endémiques](https://fr.wikipedia.org/wiki/End%C3%A9misme) 
 [Nouveau champ de R&D pour les fibres végétales](http://www.ocl-journal.org/articles/ocl/pdf/2015/06/ocl150041-s.pdf) 
 [Fibre végétale et PLA](http://cerig.pagora.grenoble-inp.fr/memoire/2011/barquette-alimentaire-biocomposite.htm) 
  
-
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.266912_1449844981737_termoform.PNG?fit=max&w=882)
-
-
- 
 
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.266912_1449845041123_biocomp.PNG?fit=max&w=882)
 
-
- 
-
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.266912_1449845148883_swot%20biocomp.PNG?fit=max&w=882)
 
-## Bioplastiques
-
+## Bioplastique
  
 Drop - in solutions:
 Bioplastiques  ayant les même propriétés, fonctionnalités que les plastiques issus du  pétrole. Ne requiert aucune adaptation de la chaine de mise en forme,  d'usage, de recyclage
  
 Il existe deux types de bioplastiques:
-
-  - Biosourcés
-  - Biodégradable
-
+- Biosourcés
+- Biodégradable
  
 Les sources sont classés en trois générations:
 
@@ -350,34 +349,22 @@ Les sources sont classés en trois générations:
 - 2eme génération: Biomasse lignocellulosique et déchêts organiques
 - 3eme génération: Produits par micro-organismes
 
- 
 I/ Polymères biosourcés microbiens
 PE: polyéthylène
 PP: polypropylène
  
- 
-
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.447695_1450083707512_bioplastique.png?fit=max&w=882)
-
-
  
-
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.447695_1450086054054_bioplastique2.png?fit=max&w=882)
 
-
- 
 Recyclage;
 
 ![](https://hackpad-attachments.imgix.net/hackpad.com_Af4Ceh7Zfsz_p.447695_1450084103676_bioplastique.png?fit=max&w=882)
 
+II/ Acide polylactique (PLA)
 
- 
-
-# **Acide p****oly****lactique** **(PLA)**
-
- 
- [2 biopolymères sur le marché](http://www.valbiom.be/files/library/Docs/Biopolymeres/amidonpla20111297333283.pdf)  
- Poly  (acide lactique) ou le polylactide (PLA) est un polyester aliphatique  thermoplastique biodégradable dérivé des ressources renouvelables,  telles que la fécule de maïs (aux Etats-Unis), les racines de tapioca,  les frites ou l'amidon (la plupart du temps en Asie), ou la canne à  sucre (dans le reste du monde).
+[2 biopolymères sur le marché](http://www.valbiom.be/files/library/Docs/Biopolymeres/amidonpla20111297333283.pdf)  
+Poly  (acide lactique) ou le polylactide (PLA) est un polyester aliphatique  thermoplastique biodégradable dérivé des ressources renouvelables,  telles que la fécule de maïs (aux Etats-Unis), les racines de tapioca,  les frites ou l'amidon (la plupart du temps en Asie), ou la canne à  sucre (dans le reste du monde).
  
 Le  PLA peut être traité par l'extrusion, le moulage par injection, le bloc  moulé de film et de feuille, et rotation, permettant d'accéder à un  large éventail de matériaux.
  
@@ -386,15 +373,11 @@ L'acide  polylactique peut être réutilisé au monomère par dépolymérisation
 Plus d'information au sujet de PLA: [http://en.wikipedia.org/wiki/Polylactic_acid](http://en.wikipedia.org/wiki/Polylactic_acid)
  
 
-# **Tests de matériaux en milieux aqueux** 
+## Tests de matériaux en milieux aqueux paour Ocean Recolonisation
 
- 
+### Eau douce
 
-### **Eau douce**
-
- 
-
-### **Eau de mer**
+### Eau de mer
 
  
 
