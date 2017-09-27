@@ -1,6 +1,6 @@
 ---
 title: Notes sur le ScodD
-description: dansl e cadre de la résidence à l'Hôtel Pasteur 2017
+description: dans le cadre de la résidence à l'Hôtel Pasteur 2017
 image_url:
 ---
 
