@@ -1,7 +1,7 @@
 ---
 title: Introdcution au projet
 description: Projet de BioHacker House à Rennes co-créé et réalisé en 7 jours 
-uamge_url: https://framapic.org/5ptXMJ3KgliF/LmrhpV5TOUO1.jpg
+image_url: https://framapic.org/5ptXMJ3KgliF/LmrhpV5TOUO1.jpg
 ---
 
 
