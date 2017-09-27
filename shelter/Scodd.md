@@ -1,3 +1,9 @@
+---
+title: Notes sur le ScodD
+description: dansl e cadre de la résidence à l'Hôtel Pasteur 2017
+image_url:
+---
+
 # Scodd
 
 Abri pour réfugiés inspiré de l'exosquelette du scorpion (forme + Matière)
