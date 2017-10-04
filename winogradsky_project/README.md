@@ -16,9 +16,9 @@ image_url: https://framapic.org/zzl2kNdFjVru/Itk01df0WGgl.jpg
  * [English wiki](https://en.wikipedia.org/wiki/Winogradsky_column)
  * [French Wiki](https://fr.wikipedia.org/wiki/Colonne_de_Winogradsky)
 
-###_Feel Free to contribute_
+### _Feel Free to contribute_
 
-###_Be happy to fork it on github_
+### _Be happy to fork it on github_
 
 Read ME !
 
@@ -26,7 +26,7 @@ _Version française ici & English version bellow_
 
 ## Dans ces dépôts sont développés collaborativement :
 
-* Les documentations
+* Les documentations et le [Wiki]((https://github.com/LeBiome/Proto_et_Projets/wiki) sur l'éxpérimentation ByodIT et Blockchain
 * Les protypes réalisés autour de la colone de Winogradsky
 * Les programmes pédagogiques
 * Les réalisations web
