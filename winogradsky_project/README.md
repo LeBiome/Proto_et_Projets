@@ -26,7 +26,7 @@ _Version française ici & English version bellow_
 
 ## Dans ces dépôts sont développés collaborativement :
 
-* Les documentations et le [Wiki]((https://github.com/LeBiome/Proto_et_Projets/wiki) sur l'éxpérimentation ByodIT et Blockchain
+* Les documentations et le [Wiki](https://github.com/LeBiome/Proto_et_Projets/wiki) sur l'éxpérimentation ByodIT et Blockchain
 * Les protypes réalisés autour de la colone de Winogradsky
 * Les programmes pédagogiques
 * Les réalisations web
