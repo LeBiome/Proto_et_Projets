@@ -32,7 +32,7 @@ An interaction based on the internal activity of the subject and the influences 
 
 Dans ce projet prospectif, nous essayons de rester en accord avec le [We Are Biomers Manifesto](https://github.com/LeBiome/manifesto/blob/master/manifeste.md)
 
-Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/LeBiome/winogradsky_project)
+Une expérimentation basée sur la [colonne de Winogradsky](https://github.com/LeBiome/winogradsky_project) et [le wiki](https://github.com/LeBiome/Proto_et_Projets/wiki) sur les tests avec la blockchain
 
 ![](https://framapic.org/r7LQM6MMd120/Iru5vhlQuUev.jpg)
 
@@ -40,8 +40,8 @@ _**Instalations, temps d'accélération et collaborations en prévision**_ :
 
 * 2017
  * Rennes
- * Lyon
- * Londres
+ * Lyon ?
+ 
 
 * 2018
  * Berlin
