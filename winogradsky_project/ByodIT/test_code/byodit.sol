@@ -97,21 +97,22 @@ contract Byodit {
         return totalDataConsumption[msg.sender];
     }
 
-    // fonction permettant la vente de donées
+    // fonction permettant la vente de donées - function allowing the sale of data
     function buyData(address coinContractAddress, address seller, uint data) returns (bool transactionOK) {
 
         // on verifie d'abord que l'acheteur n'achète pas ses propres données
+	// we verify first that the buyer does not buy his own data
         if (msg.sender == seller) throw;
 
-        // appel de la fonction de transfer de ByoditCoin
-        // 1Go = 1ByoditCoin, pas de besoin de conversion
+        // appel de la fonction de transfer de ByoditCoin - calling the BitCoin transfer function
+        // 1Go = 1ByoditCoin, pas de besoin de conversion - 1GB = 1ByoditCoin, no need for conversion
         transactionOK = sendCoin(coinContractAddress, msg.sender, seller, data);
         if (transactionOK != true) throw;
 
-        // on met à jour :
-        // - la liste des vendeurs
+        // on met à jour - update :
+        // - la liste des vendeurs - list of sellers
         addSeller(seller);
-        // - la quantité de donnée pouvant être consommée
+        // - la quantité de donnée pouvant être consommée - amount of data that can be consumed
         allowance[seller][msg.sender] += data;
 
         //event
