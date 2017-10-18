@@ -1,13 +1,14 @@
 pragma solidity ^0.4.2;
     // 'pragma' indique au compileur dans quelle version de Solidity ce code est écrit 
+    // 'pragma' tells the compiler which version of Solidity this code is written in
 contract Byodit {
 
     // variables
-    //// Valeur des donées en ByoditCoin
+    //// Valeur des données en ByoditCoin - Data value in ByoditCoin
     uint public rate;
     bool private transactionOK;
 
-    //// Colonnes
+    //// Colonnes - Byodit columns
     mapping (address => uint) public dataProduction;
     mapping (address => uint) public totalDataConsumption;
     ///// dataConsumption[msg.sender][origin]
@@ -15,25 +16,25 @@ contract Byodit {
     ///// allowance[seller][msg.sender]
     mapping (address => mapping (address => uint)) public allowance;
 
-    //// list of sellers
+    //// Liste des vendeurs - list of sellers
     struct Seller {
         uint index;
       }
     mapping (address => Seller) private sellersList;
     address[] public sellerIndex;
 
-    // constructeur
+    // constructeur - builder
     /// 
     function Byodit() {
         rate = 1; // (=> 1Go = 1 ByoditCoin)
     }
 
-    // définition des events (pour affichage à partir de la lecture des logs)
+    // définition des events (pour affichage à partir de la lecture des logs) - definition of events (for display from log reading)
     event Produce(address from, uint data);
     event Consume(address from, address origin, uint data);
     event Buy(address from, address to, uint data);
 
-    // fonction permettant de payer en ByoditCoin
+    // fonction permettant de payer en ByoditCoin - function to pay in ByoditCoin
 	function sendCoin(address coinContractAddress,
 	                  address dataBuyer,
 	                  address dataSeller,
@@ -63,9 +64,10 @@ contract Byodit {
     }
 
 
-    // fonction permettant de mettre à jour la donnée produite et
-    // donc dispo à la vente
-    // seul le propriétaire du compte peut mettre à jour sa prod
+    // fonction permettant de mettre à jour la donnée produite et donc dispo à la vente
+    // function to update the data produced and thus available for sale
+    // seul le propriétaire du compte peut mettre à jour sa production
+    // only the owner of the account can update his production
     function setProduction(uint data) returns (uint dataProd) {
         dataProduction[msg.sender] += data;
 
@@ -76,9 +78,12 @@ contract Byodit {
     }
 
     // fonction permettant de consommer de la donée
-    // seul le propriétaire du compte peut mettre à jour sa prod
+    // function to consume the data
+    // seul le propriétaire du compte peut mettre à jour sa consommation
+    // only the owner of the account can update its consumption
     function consumeData (address origin, uint data) returns (uint DataCons) {
         // dans le cas où on achète de la donnée d'un autre noeud
+	// in the case where one buys data from another node
         if ( origin != msg.sender &&
              data > allowance[origin][msg.sender] ) throw;
         else allowance[origin][msg.sender]    -= data;
