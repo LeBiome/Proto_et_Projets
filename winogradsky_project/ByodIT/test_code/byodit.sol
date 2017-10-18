@@ -1,16 +1,17 @@
 pragma solidity ^0.4.2;
-contract Daisee {
+    // 'pragma' indique au compileur dans quelle version de Solidity ce code est écrit 
+contract Byodit {
 
     // variables
-    //// tarif de l'énergie en DaiseeCoin
+    //// Valeur des donées en ByoditCoin
     uint public rate;
     bool private transactionOK;
 
-    //// utilisateurs
-    mapping (address => uint) public energyProduction;
-    mapping (address => uint) public totalEnergyConsumption;
-    ///// energyConsumption[msg.sender][origin]
-    mapping (address => mapping (address => uint)) public energyConsumption;
+    //// Colonnes
+    mapping (address => uint) public dataProduction;
+    mapping (address => uint) public totalDataConsumption;
+    ///// dataConsumption[msg.sender][origin]
+    mapping (address => mapping (address => uint)) public dataConsumption;
     ///// allowance[seller][msg.sender]
     mapping (address => mapping (address => uint)) public allowance;
 
@@ -22,24 +23,24 @@ contract Daisee {
     address[] public sellerIndex;
 
     // constructeur
-    function Daisee() {
-        rate = 1; // (=> 1W = 1 DaiseeCoin)
+    /// 
+    function Byodit() {
+        rate = 1; // (=> 1Go = 1 ByoditCoin)
     }
 
     // définition des events (pour affichage à partir de la lecture des logs)
-    event Produce(address from, uint energy);
-    event Consume(address from, address origin, uint energy);
-    event Buy(address from, address to, uint energy);
+    event Produce(address from, uint data);
+    event Consume(address from, address origin, uint data);
+    event Buy(address from, address to, uint data);
 
-
-    // fonction permettant de payer en DaiseeCoin
+    // fonction permettant de payer en ByoditCoin
 	function sendCoin(address coinContractAddress,
-	                  address energyBuyer,
-	                  address energySeller,
+	                  address dataBuyer,
+	                  address dataSeller,
 	                  uint amount)
 	                  returns (bool success){
 		token m = token(coinContractAddress);
-		success = m.transferFrom(energyBuyer, energySeller, amount);
+		success = m.transferFrom(dataBuyer, dataSeller, amount);
 		return success;
 	}
 
@@ -62,54 +63,54 @@ contract Daisee {
     }
 
 
-    // fonction permettant de mettre à jour l'énergie produite et
+    // fonction permettant de mettre à jour la donnée produite et
     // donc dispo à la vente
     // seul le propriétaire du compte peut mettre à jour sa prod
-    function setProduction(uint energy) returns (uint EnergyProd) {
-        energyProduction[msg.sender] += energy;
+    function setProduction(uint data) returns (uint dataProd) {
+        dataProduction[msg.sender] += data;
 
         //event
-        Produce(msg.sender, energy);
+        Produce(msg.sender, data);
 
-        return energyProduction[msg.sender];
+        return dataProduction[msg.sender];
     }
 
-    // fonction permettant de consommer de l'énergie
+    // fonction permettant de consommer de la donée
     // seul le propriétaire du compte peut mettre à jour sa prod
-    function consumeEnergy (address origin, uint energy) returns (uint EnergyCons) {
-        // dans le cas où on achète de l'énergie d'un autre noeud
+    function consumeData (address origin, uint data) returns (uint DataCons) {
+        // dans le cas où on achète de la donnée d'un autre noeud
         if ( origin != msg.sender &&
-             energy > allowance[origin][msg.sender] ) throw;
-        else allowance[origin][msg.sender]    -= energy;
+             data > allowance[origin][msg.sender] ) throw;
+        else allowance[origin][msg.sender]    -= data;
 
-        energyConsumption[msg.sender][origin] += energy;
-        totalEnergyConsumption[msg.sender]    += energy;
+        dataConsumption[msg.sender][origin] += data;
+        totalDataConsumption[msg.sender]    += data;
 
         // event
-        Consume(msg.sender, origin, energy);
+        Consume(msg.sender, origin, data);
 
-        return totalEnergyConsumption[msg.sender];
+        return totalDataConsumption[msg.sender];
     }
 
-    // fonction permettant la vente d'énergie
-    function buyEnergy(address coinContractAddress, address seller, uint energy) returns (bool transactionOK) {
+    // fonction permettant la vente de donées
+    function buyData(address coinContractAddress, address seller, uint data) returns (bool transactionOK) {
 
-        // on verifie d'abord que l'acheteur n'achète pas sa propre énergie
+        // on verifie d'abord que l'acheteur n'achète pas ses propres données
         if (msg.sender == seller) throw;
 
-        // appel de la fonction de transfer de DaiseeCoin
-        // 1W = 1DaiseeCoin, pas de besoin de conversion
-        transactionOK = sendCoin(coinContractAddress, msg.sender, seller, energy);
+        // appel de la fonction de transfer de ByoditCoin
+        // 1Go = 1ByoditCoin, pas de besoin de conversion
+        transactionOK = sendCoin(coinContractAddress, msg.sender, seller, data);
         if (transactionOK != true) throw;
 
         // on met à jour :
         // - la liste des vendeurs
         addSeller(seller);
-        // - la quantité d'énergie pouvant être consommée
-        allowance[seller][msg.sender] += energy;
+        // - la quantité de donnée pouvant être consommée
+        allowance[seller][msg.sender] += data;
 
         //event
-        Buy(msg.sender, seller, energy);
+        Buy(msg.sender, seller, data);
 
         return transactionOK;
     }
