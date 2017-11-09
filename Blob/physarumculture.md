@@ -1,6 +1,6 @@
 ---
 title: Physarum Culture
-description : Une méthode simple pour cultiver physarum plasmodique
+description: Une méthode simple pour cultiver physarum plasmodique
 image_url:
 --- 
 
