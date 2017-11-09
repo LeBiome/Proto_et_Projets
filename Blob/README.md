@@ -1,6 +1,6 @@
 ---
 title: Physarum Polycephalum
-description : Blob me i am famous
+description: Blob me i am famous
 image_url:
 --- 
 # Physarum Plycephalum
