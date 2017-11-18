@@ -1,6 +1,6 @@
 ---
 title: Spiruline 0.1
-descritpion: Les bases de la culture domestique de spiruline
+description: Les bases de la culture domestique de spiruline
 image_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Spirul.jpg
 ---
 
