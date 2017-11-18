@@ -54,7 +54,7 @@ Donc, si vous ou quelqu'un que vous connaissez veut s'impliquer, qu'est-ce qui e
 |Plan incliné |	1 |	Chlorella sp. |	2 |	25 (p) |
 |Plaque |	1,2 |	Arthrospira platensis |	4 - 6 |	24 (d) |
 |Tubulaire |	2,5 (Ø) |	Spirulina platensis |	4 |	27 (p) |	
-Tubulaire |	4,8 (Ø) |	Chlorella vulgaris 	4 |	52 (p)|
+|Tubulaire |	4,8 (Ø) |	Chlorella vulgaris 	4 |	52 (p)|
 |Tubulaire |	6,0 (Ø) |	Porphyridium cruentum |	1 |	25 (p)|
 |Tubulaire |	12,3 (Ø) |	Spirulina maxima |	1 |	25 (p)|
 |Bassin |	15 |	Arthrospira platensis, Dunaliella salina, Odontella aurita |	0,4 |	12 - 13 (p)|
