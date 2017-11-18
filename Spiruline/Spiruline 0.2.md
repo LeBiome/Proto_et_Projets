@@ -89,9 +89,9 @@ L'ajout d'un couverlce de verre ou en plastique peut diminuer la quantité d'év
 ## Étape 8: Ajouter du fer
 
 À ce stade, vous pouvez ajouter le fer chélaté. 
-```
-Le fer [chélate](https://fr.wikipedia.org/wiki/Ch%C3%A9lation) est du fer associé à l'[E.D.T.A.](https://fr.wikipedia.org/wiki/EDTA) (Éthylène Diamine Tétra-Acétique), ou à certaines substances humiques ou argileuses par exemple.
-```
+
+> Le fer [chélate](https://fr.wikipedia.org/wiki/Ch%C3%A9lation) est du fer associé à l'[E.D.T.A.](https://fr.wikipedia.org/wiki/EDTA) (Éthylène Diamine Tétra-Acétique), ou à certaines substances humiques ou argileuses par exemple.
+
 Il complète les besoins nutritionnels de la spiruline. Les carences en fer sont visibles, tout comme dans les plantes. Une légère nuance jaune est un indicateur de carence en fer.
 
 ## Étape 9: période de pousse des micro-algues
@@ -116,27 +116,58 @@ Vous êtes juste à quelques pas de la récolte facile.
 
 La spiruline a une caractéristique avantageuse qui lui permet de se développer dans des environnements hautement alcalins, ce qui signifie des niveaux de pH de 9,5-10 et plus. Cela diminue considérablement les chances d'organismes étrangers de se développer votre culture, car ils ne peuvent tout simplement pas survivre dans ce genre d'alcalinité. Pour récolter en toute sécurité, vous devez simplement attendre que votre culture atteigne un niveau de pH approximatif de 10 en utilisant des bandes de pH facilement disponibles.
 
-> Tips : Voir également les analyses à faire soi-même](http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme) par nos amis Nantais de Fablabo et Plateforme C
+> Tips : Voir également [les analyses à faire soi-même](http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme) par nos amis Nantais de Fablabo et Plateforme C
 
 Nous fournirrons très rapidement un tuto avec arduio et sonde pour le contrôle du pH.
 
 ## Étape 12: Récolte
 
-Une fois au niveau de pH sûr, vous pouvez installer votre tube de récolte intégré. Il est important de n'utiliser qu'un matériau conforme aux normes de la FDA, car vous souhaitez utiliser des éléments de qualité alimentaire sûrs dans votre ferme de spiruline. J'ai reçu mon kit de Spirulinasystems.com.
+Une fois au niveau de pH sûr, vous pouvez installer votre tube de récolte intégré. Il s'agit de faire une fontaine pour filtrer le geyser eau + spiruline et de rendre au bac de culture une eau claire. Il est important de n'utiliser qu'un matériau conforme aux recommandationset normes alimentaires pour ce tube , car vous souhaitez utiliser des éléments de qualité alimentaire sûrs dans votre ferme de spiruline. J'ai reçu mon kit de Spirulinasystems.com.
 
 Une fois que vous ouvrez la valve menant au tube de récolte, le fluide devrait commencer à monter et couler.
-Vous pouvez maintenant attacher votre tissu de récolte à l'extrémité du tube avec une bande de caoutchouc pour attraper la spiruline qui coule à travers le tube tout en laissant le milieu clair revenir dans le réservoir. Il est recommandé de récolter 1/3 de la culture pour lui permettre de repulper dans un jour ou deux. De cette façon, vous pouvez récolter continuellement tant que vous continuez à nourrir les éléments nutritifs.
+![](http://cdn.instructables.com/FNK/RCKX/HJGDWY1J/FNKRCKXHJGDWY1J.MEDIUM.jpg)
 
-## Étape 13: Enjoy
+Vous pouvez maintenant attacher votre tissu de récolte à l'extrémité du tube avec une bande de caoutchouc pour attraper la spiruline qui coule à travers le tube tout en laissant le milieu clair revenir dans le réservoir. Il est recommandé de récolter 1/3 de la culture uniquement pour lui permettre de recoloniser dans un jour ou deux. 
 
-Voici le temps de ce faire plaisir
+De cette façon, vous pouvez récolter continuellement tant que vous continuez à fournir les éléments nutritifs.
 
-## Step 14: Feeding
+## Étape 13: Apprécier
 
-Lorsque la spiruline se développe, elle consomme les nutriments que vous avez ajoutés. Vous avez simplement besoin d'ajouter des éléments nutritifs. Pour chaque cuillère à soupe de spiruline vivante récoltée, vous devez ajouter une cuillère à café du mélange nutritif suivant. Voici les poids pour faire un lot de nutriments mixtes: 1,4 kg de salpêtre, 50 grammes de phosphate d'ammonium, 30 grammes de sulfate de potassium et 20 grammes de sel d'Epsom. Ajouter un demi-goutteur de fer chélaté pour chaque quelques cuillères à soupe récoltées. C'est tout.
+Voici le temps de ce faire plaisir. 
++ déguster fraiche
+  + Nature ou avec un autre aliment de votre choix
++ Faire sécher puis déguster
+  + Nature ou avec un aliment de votre choix
 
-## Step 15: Quality Control
-La spiruline est sûre de croître par le fait que son milieu est hautement alcalin donc peu d'autres organismes se développent dans cet environnement. En même temps, c'est vraiment amusant et assurez-vous de faire un peu de contrôle qualité en vous procurant un microscope abordable et en visualisant votre culture. Amazon est un excellent endroit pour obtenir un microscope bon marché qui sera plus que suffisant pour cette tâche. Cela va vraiment vous faire apprécier la petite algue que vous consommez. Ci-dessous, vous pouvez voir que seule la spiruline se développe dans la culture. Vous pouvez également acheter une caméra de microscope USB pour faire votre propre vidéo et de la documentation.
+## 2tape 14: Nourrir
+
+Lorsque la spiruline se développe, elle consomme les nutriments que vous avez ajoutés. 
+
+Vous avez simplement besoin d'ajouter des éléments nutritifs. Pour chaque cuillère à soupe de spiruline vivante récoltée, vous devez ajouter une cuillère à café du mélange nutritif suivant. 
+
+**Voici les poids pour faire un lot de nutriments mixtes**: 
++ 1,4 kg de salpêtre, 
++ 50 grammes de phosphate d'ammonium, 
++ 30 grammes de sulfate de potassium, 
++ 20 grammes de sel d'Epsom. 
+
+Ajouter une légère pincée de fer chélaté pour chaque quelques cuillères à soupe récoltées. C'est tout.
+
+## Éape 15: Qualité avant tout
+
+La spiruline est sûre de croître par le fait que son milieu est hautement alcalin donc peu d'autres organismes se développent dans cet environnement. 
+
+Amusez et assurez-vous de faire un peu de contrôle qualité en vous procurant un microscope abordable et en visualisant votre culture. 
++ Nos [documentations DIYBio](https://lebiome.github.io/#LeBiome/DIYBio)
++ Des [débutants recyclent un microscope](https://lebiome.github.io/#LeBiome/community/blob/master/Master_Class/Biomimicry_master_class_2016.md) lors de notre matserclass de biomimétisme
++ [DIY Microscope](http://www.hackteria.org/wiki/index.php/DIY_microscopy) par Hackteria
+
+Vous pouvez également acheter une caméra de microscope USB pour faire votre propre vidéo et de la documentation.
+
++ [HOW TO TURN ANY WEBCAM INTO a HIGH POWER MICROSCOPE](http://www.instructables.com/id/HOW-TO-TURN-ANY-WEBCAM-INTO-A-HIGH-POWER-MICROSCOP/)
+## Pour imaginer plus loin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nf9akIU_-2c" frameborder="0" allowfullscreen></iframe>
 
 # Licence du document
 
