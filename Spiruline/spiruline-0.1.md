@@ -1,14 +1,14 @@
-# Spiruline 0.1
+---
+title: Spiruline 0.1
+descritpion: Les bases de la culture domestique de spiruline
+image_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Spirul.jpg
+---
 
-:::success
-+ texte à revoir librement et collectivement
-+ il s'agit de fournir les bases conetxtuelles et un débur de FAQ sur la spiruline
-+ Contribution bienvenue (ajoutez vous au crédit en bas de page sous licence CC BY SA)
-  + Ajout des hyperliens nécessaires
-  + Compléter la FAQ
-  + Ajouter vos ref
-  + Ajouter ou corriger avec vos savoirs
-:::
+
+# Spiruline 0.1
+les bases de la culture domestique de spiruline.
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Spirul.jpg "Joan Simon Own work, copyleft Multi-license with GFDL and Creative Commons CC-BY-SA-2.5")
 
 ## Les étapes
 
@@ -27,8 +27,6 @@ L'image populaire de l'élevage d'algues est pleine de colonnes vertes et de sci
 Ce ne sont pas de simples projets scientifiques. En raison du taux élevé de croissance des micro-algues et de leur densité nutritive potentielle, il est possible d'en produire suffisamment dans un auquarium pour compléter de façon significative le régime alimentaire expérimental d'une personne.
 
 ![](https://i.imgur.com/NAwz6r3.jpg)
-
-
 
 ## 1. La valeur unique de la Spiruline vivante et fraîche, même à petites doses.
 
@@ -49,6 +47,20 @@ Même quand une culture d'algues semble belle et épaisse, il s'agit probablemen
 règle générale, les cellules algaires sont minuscules, grossièrement sphériques et diablement difficiles à extraire de l'eau sans technologie spéciale (parfois coûteuse dans l'industrie). C'est là qu'intervient la forme en "tire-bouchon" des cellules de spiruline; quand une culture est coulée à travers un simpleun tissu fin, elle filtre facilement, laissant une pâte épaisse, qui peut être consommée immédiatement. Comparez cela avec le besoin de rupture de cellules, de séchage et d'extraction de produits dans les systèmes de production d'algues typiques, et il est facile de voir pourquoi la Spiruline est un bon point de départ.
 
 Donc, si vous ou quelqu'un que vous connaissez veut s'impliquer, qu'est-ce qui est nécessaire? Rien de plus qu'une fenêtre ensoleillée, une sorte de conteneur transparent (nous utilisons des futs de bières keygkeg destinés au rebut), et un kit de de base. Si vous voulez assembler votre propre kit, nous pouvons vous mettre en place starterKit de spiruline, des aides à la croissance et tout autre équipement que vous pourriez souhaiter.
+
+## 4. Tableau des possibilités de culture en photobioréacteur
+
+| Système de production | Longueur du chemin optique (cm)  | Espèce de microalgue |Concentrations maximales (g l-1)|Productivité surfacique (g m-2 j-1)|
+| ------ | ----------- | ------ | ----------- |------ | 
+|Plan incliné |	1 |	Chlorella sp. |	2 |	25 (p) |
+|Plaque |	1,2 |	Arthrospira platensis |	4 - 6 |	24 (d) |
+|Tubulaire |	2,5 (Ø) |	Spirulina platensis |	4 |	27 (p) |	
+Tubulaire |	4,8 (Ø) |	Chlorella vulgaris 	4 |	52 (p)|
+|Tubulaire |	6,0 (Ø) |	Porphyridium cruentum |	1 |	25 (p)|
+|Tubulaire |	12,3 (Ø) |	Spirulina maxima |	1 |	25 (p)|
+|Bassin |	15 |	Arthrospira platensis, Dunaliella salina, Odontella aurita |	0,4 |	12 - 13 (p)|
+|Tubulaire |	50 (Ø) |	Haematococcus pluvialis |0,4 |	13 (p)|
+|Colonne à bulles |	50 (Ø) |	T. Iso, Pavlova lutheri, Chaetoceros calcitrans, Tetraselmis suecica | 0,1 |	3 (d)|
 
 
 ## Quelques FAQ sur la culture d'algues à la maison:
@@ -114,6 +126,4 @@ Pour ces raisons, les «lumières de croissance» ordinaires, qui sont optimisé
 
 # Licence du document
 
-credits : Le Biome Hacklab, Xavier Coadic
-Creative commons international 4.0 BY SA
-CC BY SA
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Spiruline 0.1</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Le Biome HackLab, Xavier Coadic</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="lebiome.hacklab@pronmail.com" rel="cc:morePermissions">lebiome.hacklab@pronmail.com</a>.
