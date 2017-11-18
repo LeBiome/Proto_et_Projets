@@ -1,6 +1,6 @@
 --- 
 title: Spiruline 0.2
-descrption: Tutoriel de base pour culture
+description: Tutoriel de base pour culture de spiruline en 15 étapes rapides
 image_url: https://framapic.org/jPUa4x5B53dY/lAq1uS7iLkcl.jpeg
 ---
 
