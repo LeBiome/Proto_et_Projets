@@ -4,13 +4,12 @@ descritpion: Les bases de la culture domestique de spiruline
 image_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Spirul.jpg
 ---
 
-
 # Spiruline 0.1
-les bases de la culture domestique de spiruline.
+les bases de la culture domestique de spiruline. Pour savoir comment contribuer à ces documentations et/ou poser vos questions, utilisez cette [ISSUE](https://github.com/LeBiome/Proto_et_Projets/issues/7).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7a/Spirul.jpg "Joan Simon Own work, copyleft Multi-license with GFDL and Creative Commons CC-BY-SA-2.5")
 
-## Les étapes
+## Les étapes de documentation du porjet spiruline par le Biome HackLab
 
 + Spiruline 0 : Histoire de la micro-algue, approche biologique et biblio de références scientifiques
 + [Spiruline 0.1](https://hackmd.io/s/Hy4cKLuyM#) : Contexte et FAQ
@@ -67,10 +66,9 @@ Tubulaire |	4,8 (Ø) |	Chlorella vulgaris 	4 |	52 (p)|
 
 ### Combien de temps faut-il pour sortir du kit avec la bouteille de démarrage de 1 litre, jusqu'à ce que je puisse commencer à récolter de mon réservoir?
 
-Le développement se fait par étapes (voir les instructions) vous mettez la moitié du contenu de la bouteille dans un quart du réservoir (environ è litres pour un réservoir de 33 litres) pour commencer, ce qui entraîne une culture très mince au début, qui va s'épaissir avec le temps. Après quelques semaines, les micro-algues doivent être assez épaisses pour pouvoir doubler le volume de culture, puis au bout d'une semaine suivante environ, doubler à nouveau, de sorte que le réservoir soit plein. 
+Le développement se fait par étapes (voir les instructions) vous mettez la moitié du contenu de la bouteille dans un quart du réservoir (environ 0,5 litre litres pour un réservoir de 33 litres) pour commencer, ce qui entraîne une culture très mince au début, qui va s'épaissir avec le temps. Après quelques semaines, les micro-algues doivent être assez épaisses pour pouvoir doubler le volume de culture, puis au bout d'une semaine suivante environ, doubler à nouveau, de sorte que le réservoir soit plein. 
 
-Une fois que le réservoir est plein, les algues sont épaisses (3 cm Secchi ou moins), et le pH a été d'au moins 10 pendant 24 heures, vous devriez être en mesure de récolter. Ce processus peut prendre de 3 à 6 semaines.
-
+Une fois que le réservoir est complété, que les algues sont épaisses (3 cm Secchi ou moins), et le pH a été d'au moins 10 pendant 24 heures, vous devriez être en mesure de récolter. Ce processus peut prendre de 3 à 6 semaines.
 
 #### Puis-je récolter plusieurs fois?
 
@@ -81,6 +79,8 @@ Une fois que vous avez une culture foisonnante (qui prend généralement quelque
 Nous utilisons de l'eau du robinet, filtrée à travers du charbon actif ou à travers un filtre en céramique (comme un Berkey). Les algues sont très sensibles au chlore, donc l'eau du robinet n'est utilisable que si le chlore a été éliminé, ce qui peut être fait avec des produits vendus pour les aquariums. 
 
 Les filtres mentionnés ci-dessus, et la déchloration, laissent des minéraux dans l'eau, ce qui est généralement une bonne chose; Si vous voulez utiliser de l'eau déminéralisée comme l'eau distillée ou osmosée, ou si votre eau est particulièrement douce, vous pouvez obtenir une meilleure croissance si vous ajoutez une combinaison de `0,1 g / L de sulfate de magnésium`, `0,5 g / L de sulfate de potassium`, et / ou `0,1 g / L de chlorure de calcium (ou de la chaux ou du plâtre)`. 
+
+![](https://framapic.org/hh2GsaCsryFe/JUWOCMOuOHxh)
 
 ### Combien de spiruline puis-je récolter dans mon aquarium, à quelle fréquence et pendant combien de temps?
 
