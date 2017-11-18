@@ -139,7 +139,7 @@ Voici le temps de ce faire plaisir.
 + Faire sécher puis déguster
   + Nature ou avec un aliment de votre choix
 
-## 2tape 14: Nourrir
+## Étape 14: Nourrir
 
 Lorsque la spiruline se développe, elle consomme les nutriments que vous avez ajoutés. 
 
@@ -153,7 +153,7 @@ Vous avez simplement besoin d'ajouter des éléments nutritifs. Pour chaque cuil
 
 Ajouter une légère pincée de fer chélaté pour chaque quelques cuillères à soupe récoltées. C'est tout.
 
-## Éape 15: Qualité avant tout
+## Étape 15: Qualité avant tout
 
 La spiruline est sûre de croître par le fait que son milieu est hautement alcalin donc peu d'autres organismes se développent dans cet environnement. 
 
@@ -165,10 +165,12 @@ Amusez et assurez-vous de faire un peu de contrôle qualité en vous procurant u
 Vous pouvez également acheter une caméra de microscope USB pour faire votre propre vidéo et de la documentation.
 
 + [HOW TO TURN ANY WEBCAM INTO a HIGH POWER MICROSCOPE](http://www.instructables.com/id/HOW-TO-TURN-ANY-WEBCAM-INTO-A-HIGH-POWER-MICROSCOP/)
+
 ## Pour imaginer plus loin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nf9akIU_-2c" frameborder="0" allowfullscreen></iframe>
 
-# Licence du document
+
+## Licence du document
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Spiruline 0.2</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Le Biome HackLab, Xavier Coadic</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="lebiome.hacklab@protonmail.com" rel="cc:morePermissions">lebiome.hacklab@protonmail.com</a>.
