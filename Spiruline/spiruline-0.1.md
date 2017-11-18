@@ -1,6 +1,6 @@
 ---
 title: Spiruline 0.1
-description: Les bases de la culture domestique de spiruline
+description: Contexte et FAQ autour de la culture spiruline
 image_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Spirul.jpg
 ---
 
@@ -25,7 +25,7 @@ L'image populaire de l'élevage d'algues est pleine de colonnes vertes et de sci
 
 Ce ne sont pas de simples projets scientifiques. En raison du taux élevé de croissance des micro-algues et de leur densité nutritive potentielle, il est possible d'en produire suffisamment dans un auquarium pour compléter de façon significative le régime alimentaire expérimental d'une personne.
 
-![](https://i.imgur.com/NAwz6r3.jpg)
+![](https://framapic.org/jPUa4x5B53dY/lAq1uS7iLkcl)
 
 ## 1. La valeur unique de la Spiruline vivante et fraîche, même à petites doses.
 
