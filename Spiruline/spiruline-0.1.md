@@ -12,8 +12,8 @@ les bases de la culture domestique de spiruline. Pour savoir comment contribuer 
 ## Les étapes de documentation du porjet spiruline par le Biome HackLab
 
 + Spiruline 0 : Histoire de la micro-algue, approche biologique et biblio de références scientifiques
-+ [Spiruline 0.1](https://hackmd.io/s/Hy4cKLuyM#) : Contexte et FAQ
-+ [Spiruline 0.2](https://hackmd.io/s/rk_T3I_Jf#) : Tutoriel de base pour culture
++ [Spiruline 0.1](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.1.md) : Contexte et FAQ
++ [Spiruline 0.2](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.2.md) : Tutoriel de base pour culture
 + Spiruline 0.3 : Culture en environnement garage (soon from résidence Biome à Pasteur)
 + Spiruline 0.4 : Culture en symbiose avec plante et Biofabrics (soon from résidence Biome à Pasteur)
 + Spiruline 0.5: Culture en symbiose + monotoring arduino et raspberry (soon from résidence Biome à Pasteur)
