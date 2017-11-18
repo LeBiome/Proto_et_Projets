@@ -100,19 +100,34 @@ C'est là que la spiruline va commencer à utiliser le soleil ou la lumière art
 
 ## Étape 10: Répéter pour dupliquer
 
-Répétez les étapes précédentes pour doubler votre culture: Ajouter un autre 2,5 gallons avec un liquide Starter provenant de votre première culture et du fer. Faites ceci jusqu'à ce que votre réservoir soit plein. Si votre culture est bonne, vous pouvez ajouter 5 gallons à la fois! Une fois que votre culture est bien peuplée, elle se reproduit beaucoup plus rapidement. Dans des conditions idéales, il se réplique (double) tous les trois jours! Beaucoup plus rapide que la plupart des plantes et il peut le faire toute l'année!
-Vous pouvez maintenant officiellement vous appeler un agriculteur de spiruline! Prenez un moment pour comprendre la signification monumentale de cela! Les superaliments Spirulina sont produits dans votre propre maison d'une manière respectueuse de l'environnement qui ne nécessite pas de transport, d'eau excessive et qui ne crée pas de ruissellement comme la plupart des plantes commerciales! Une tape dans le dos est bien méritée!
+Répétez les étapes précédentes pour doubler votre culture: 
 
-## Step 11: Harvesting Safety
++ Ajouter un autre bac de 15 à 30 litres avec un liquide Starter provenant de votre première culture et du fer, remplissez dabord au tiers puis complétez un peu chaque semain jusquà la capcité maximum du bac.
 
-Vous êtes juste à quelques pas de la récolte facile. Au cours des deux dernières années de recherche et développement, j'ai mangé de la spiruline avec des résultats sains. Pour reproduire cela, il suffit de suivre des étapes simples. La spiruline a une caractéristique avantageuse qui lui permet de se développer dans des environnements hautement alcalins, ce qui signifie des niveaux de pH de 10 et plus. Cela diminue considérablement les chances d'organismes étrangers de développer votre culture, car ils ne peuvent tout simplement pas survivre dans ce genre d'alcalinité. Pour récolter en toute sécurité, vous devez simplement attendre que votre culture atteigne un niveau de pH approximatif de 10 en utilisant des bandes de pH facilement disponibles.
++ Une fois que votre culture est bien colonisée, elle se reproduit beaucoup plus rapidement. Dans des conditions idéales, Elle double tous les 3 jours! 
 
-## Step 12: Harvesting
+Beaucoup plus rapide que la plupart des plantes et elle peut en plus le faire toute l'année!
+
+Vous pouvez maintenant officiellement vous appeler _**Algonaute**_! Prenez un moment pour comprendre la signification monumentale de cela! Les superaliments Spirulina sont produits dans votre propre maison d'une manière respectueuse de l'environnement qui ne nécessite pas de transport, d'eau en excès. vous avez la responsabilité d'explorer plus et de documenter sous licence libre ce que vous faites.
+
+## Étape 11: Récolte et hygiène
+
+Vous êtes juste à quelques pas de la récolte facile. 
+
+La spiruline a une caractéristique avantageuse qui lui permet de se développer dans des environnements hautement alcalins, ce qui signifie des niveaux de pH de 9,5-10 et plus. Cela diminue considérablement les chances d'organismes étrangers de se développer votre culture, car ils ne peuvent tout simplement pas survivre dans ce genre d'alcalinité. Pour récolter en toute sécurité, vous devez simplement attendre que votre culture atteigne un niveau de pH approximatif de 10 en utilisant des bandes de pH facilement disponibles.
+
+> Tips : Voir également les analyses à faire soi-même](http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme) par nos amis Nantais de Fablabo et Plateforme C
+
+Nous fournirrons très rapidement un tuto avec arduio et sonde pour le contrôle du pH.
+
+## Étape 12: Récolte
 
 Une fois au niveau de pH sûr, vous pouvez installer votre tube de récolte intégré. Il est important de n'utiliser qu'un matériau conforme aux normes de la FDA, car vous souhaitez utiliser des éléments de qualité alimentaire sûrs dans votre ferme de spiruline. J'ai reçu mon kit de Spirulinasystems.com.
+
 Une fois que vous ouvrez la valve menant au tube de récolte, le fluide devrait commencer à monter et couler.
 Vous pouvez maintenant attacher votre tissu de récolte à l'extrémité du tube avec une bande de caoutchouc pour attraper la spiruline qui coule à travers le tube tout en laissant le milieu clair revenir dans le réservoir. Il est recommandé de récolter 1/3 de la culture pour lui permettre de repulper dans un jour ou deux. De cette façon, vous pouvez récolter continuellement tant que vous continuez à nourrir les éléments nutritifs.
-## Step 13: Enjoy
+
+## Étape 13: Enjoy
 
 Voici le temps de ce faire plaisir
 
