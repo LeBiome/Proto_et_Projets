@@ -6,23 +6,25 @@ image_url: https://framapic.org/jPUa4x5B53dY/lAq1uS7iLkcl.jpeg
 
 # Spiruline 0.2
 
-Les bases de la culture domestique de spiruline en 15 points. Pour savoir comment contribuer à ces documentations et/ou poser vos questions, utilisez cette [ISSUE](https://github.com/LeBiome/Proto_et_Projets/issues/9)
+Les bases de la culture domestique de spiruline en 15 points. Pour savoir comment contribuer à ces documentations et/ou poser vos questions, utilisez cette [ISSUE](https://github.com/LeBiome/Proto_et_Projets/issues/9). Voir égalment l'article qui décrit notre démarhce globale sur "[Biomimétisme : la ville, les océans et l’espace](https://medium.com/we-are-biomers/biomim%C3%A9tisme-la-ville-les-oc%C3%A9ans-et-lespace-6decaaaef989)"
 
-## Les étapes
+![](https://framapic.org/NaLZWDnVgnhy/is6hZpHQcDuG "credit Sam Eloi from Montreal")
+
+## Les étapes de documentation du porjet spiruline par le Biome HackLab
 
 + Spiruline 0 : Histoire de la micro-algue, approche biologique et biblio de références scientifiques
 + [Spiruline 0.1](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.1.md) : Contexte et FAQ
 + [Spiruline 0.2](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.2.md) : Tutoriel de base pour culture
-+ Spiruline 0.3 : Culture en environnement garage (soon from résidence Biome à Pasteur)
-+ Spiruline 0.4 : Culture en symbiose avec plante et Biofabrics ((soon from résidence Biome à Pasteur))
-+ Spiruline 0.5: Culture en symbiose + monotoring arduino et raspberry ((soon from résidence Biome à Pasteur))
++ Spiruline 0.3 : Culture en environnement garage (soon from [résidence Biome à Pasteur](https://hackmd.io/s/BJ-CtQywW#))
++ Spiruline 0.4 : Culture en symbiose avec plante et Biofabrics (soon from [résidence Biome à Pasteur](https://hackmd.io/s/BJ-CtQywW#))
++ Spiruline 0.5: Culture en symbiose + monotoring arduino et raspberry (soon from [résidence Biome à Pasteur](https://hackmd.io/s/BJ-CtQywW#))
 + Spiruline 0.6: 0.5 + gestion de production O₂ et blockchain ethereum (soon from résidence Biome après Pasteur)
 
 ## Introduction
 
 Avoir votre propre "ferme vitrée" à spiruline est l'une des choses les plus faciles à réaliser. C'est un moyen écologique de produire et de consommer une source complète de protéines et de nutriments! La spiruline est 25 fois plus efficace par mêtre carré que toute autre plante, ce qui la rend optimale pour la croissance en intérieur. L'intégration des algues dans nos maisons peut être l'une des choses les plus importantes qui peuvent influer sur notre nutrition (et notre air car la spiruline produit de l'oxygène). Nourriture du futur, elle contient tous les acides aminés et est une protéine complète !
 
-## Step 1: Hardware
+## Étape 1: Matériels
 
 Pour développer de la Spiruline à la maison, vous aurez besoin de matériel pour optimiser et automatiser le processus. La plupart d'entre eux sont facilement disponibles en récupération ou dans votre magasin local pour bricolage ou animaux de compagnie ou poissonnerie.
 
@@ -44,7 +46,7 @@ Nous avons réutilsé des futs de bières transparent KeyKeg qui paratit à la p
 ![](https://framapic.org/jPUa4x5B53dY/lAq1uS7iLkcl.jpeg)
 
 
-## Step 2: Tank Setup
+## Étape 2: Emplacement de la culture
 
 **configuration du réservoir**
 
@@ -54,15 +56,17 @@ Trouvez une fenêtre orientée au sud pour votre réservoir. Vous pouvez soit ut
 
 > Vous pouvez également faire pousser de la spiruline dans une serre en extérieur !
 
-## Step 3: Hardware Setup
+## Étape 3: Agencement du bac de culture
 
 Commencez par placer la baguette à bulles contre la paroi du réservoir. Cela va aérer la spiruline et nourrir avec du CO2 dans la culture. 
 
 Ensuite, placer la ventouse votre appareil de chauffage à la paroi du réservoir. Réglez votre appareil de chauffage à 28 degrés parce que la température de croissance optimale de la spiruline est comprise entre 25°C et 32°C. Le tube de récolte claire est également aspiré au verre du réservoir. Maintenant, lancez votre ligne d'air au bivalve: puis à la baguette à bulles et au fond du tube de qualité alimentaire. La bi-valve vous permet de passer de l'aération à la récolte avec un minimum d'effort.
 
+![](https://framapic.org/RDMuNt2VtVxZ/2YD4jFUBxyvO)
+
 > Tips :  Lors de la résidence de Biomimétisme à L'Hôtel Pasteur à Rennes, automne 2017, nous avons utilisé des bandes de LED lumières orange et bleu dans un pièce où la température allait de 17°C à 10°C sans jamais avoir d'accident de culture
 
-## Step 4: Medium
+## Étape 4: Medium de culture
 
 Le milieu de culture est la solution d'eau dans laquelle la spiruline peut pousser le mieux. Puisque la spiruline pousse dans des environnements alcalins, vous devez rendre votre eau alcaline. Cela peut être fait en ajoutant 16 grammes / litre de `bicarbonate de sodium` à l'eau non chlorée avec d'autres nutriments: `Phosphate d'ammonium`, `sel de mer`, `nitrate de potassium`. Le plus important d'entre eux est bien sûr le bicarbonate de sodium qui crée un environnement qui ressemble aux lacs de cendres dans lesquels certaines spirulines poussent. (Voir également [Spiruline 0.1](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.1.md)
 
@@ -70,29 +74,33 @@ Le milieu de culture est la solution d'eau dans laquelle la spiruline peut pouss
 
 15 litres d'eau non chlorée ainsi que 1 tasse de nutriments pré-mélangés sont la quantité recommandée pour démarrer la culture.
 
-## Step 5: Adding Your Culture
+## Étape 5: Ajouter la spiruline
 
 Une fois que votre poudre nutritive de départ s'est dissoute et que votre eau a atteint la température ambiante ou plus, vous pouvez maintenant ajouter de la spiruline au milieu. Ajouter de la spiruline à l'eau froide peut la choquer, c'est comme prendre une douche froide! Ne verser que les 3/4 de votre bouteille de spiruline afin d'en avoir en réserve au cas où quelque chose arriverait à votre première culture!
 
-## Step 6: Mark You Water Level
+## Étape 6: Marquer son niveau de liquide
 
-Une simple étape pour enregistrer votre niveau d'eau est d'utiliser une marque de livre. Ceci est utilisé parce que l'eau s'évapore naturellement, vous devez donc remplacer l'eau qui s'évapore périodiquement.
+Une simple étape pour enregistrer votre niveau d'eau est d'utiliser un scotch opaque de d'indiquer la date du relevè en face du trait réalisé. Ceci est utilisé parce que l'eau s'évapore naturellement, vous devez donc rajouyer de l'eau avec un mix nutritif l'eau périodiquement.
 
-## Step 7: Cover Tank
+## Étape 7: Couvir le bac de culture
 
-Adding a glass or plastic cover can decrease the amount of evaporation and help keep in the heat at night. This will also prevent contamition from any airbourne organisms.
+L'ajout d'un couverlce de verre ou en plastique peut diminuer la quantité d'évaporation et aider à conserver la chaleur la nuit ou des conditions de garage. Cela permettra également de limiter les risques de contamination par des organismes aériens.
 
-## Step 8: Adding Iron
+## Étape 8: Ajouter du fer
 
+À ce stade, vous pouvez ajouter le fer chélaté. 
+```
+Le fer [chélate](https://fr.wikipedia.org/wiki/Ch%C3%A9lation) est du fer associé à l'[E.D.T.A.](https://fr.wikipedia.org/wiki/EDTA) (Éthylène Diamine Tétra-Acétique), ou à certaines substances humiques ou argileuses par exemple.
+```
+Il complète les besoins nutritionnels de la spiruline. Les carences en fer sont visibles, tout comme dans les plantes. Une légère nuance jaune est un indicateur de carence en fer.
 
-À ce stade, vous pouvez ajouter le fer chélaté. Il complète les besoins nutritionnels de la spiruline. Les carences en fer sont visibles, tout comme dans les plantes. Une légère nuance jaune est un indicateur de carence en fer.
-## Step 9: Growing Period
+## Étape 9: période de pousse des micro-algues
 
-C'est là que la spiruline va commencer à utiliser le soleil, le CO2 de l'air et les nutriments que vous avez ajoutés! Il est bon de savoir que la séquestration du CO2 aide l'environnement ET nourrit votre spiruline, ce qui va vous nourrir! Dans un laps de temps entre quelques semaines et un mois, il commencera à être plus peuplé.
+C'est là que la spiruline va commencer à utiliser le soleil ou la lumière artificielle que vous lui fournissez, le CO2 de l'air et les nutriments que vous avez ajoutés ! Il est bon de savoir que la séquestration du CO2 aide l'environnement ET nourrit votre spiruline, puis c'est qui va vous nourrir! Dans un laps de temps entre quelques semaines et un mois, votre bac de culture commencera à être plus colonisé.
 
-## Step 10: Repeat
+## Étape 10: Répéter pour dupliquer
 
-Répétez les étapes précédentes pour doubler votre culture: Ajouter un autre 2,5 gallons avec Starter et Iron. Faites ceci jusqu'à ce que votre réservoir soit plein. Si votre culture est bonne, vous pouvez ajouter 5 gallons à la fois! Une fois que votre culture est bien peuplée, elle se reproduit beaucoup plus rapidement. Dans des conditions idéales, il se réplique (double) tous les trois jours! Beaucoup plus rapide que la plupart des plantes et il peut le faire toute l'année!
+Répétez les étapes précédentes pour doubler votre culture: Ajouter un autre 2,5 gallons avec un liquide Starter provenant de votre première culture et du fer. Faites ceci jusqu'à ce que votre réservoir soit plein. Si votre culture est bonne, vous pouvez ajouter 5 gallons à la fois! Une fois que votre culture est bien peuplée, elle se reproduit beaucoup plus rapidement. Dans des conditions idéales, il se réplique (double) tous les trois jours! Beaucoup plus rapide que la plupart des plantes et il peut le faire toute l'année!
 Vous pouvez maintenant officiellement vous appeler un agriculteur de spiruline! Prenez un moment pour comprendre la signification monumentale de cela! Les superaliments Spirulina sont produits dans votre propre maison d'une manière respectueuse de l'environnement qui ne nécessite pas de transport, d'eau excessive et qui ne crée pas de ruissellement comme la plupart des plantes commerciales! Une tape dans le dos est bien méritée!
 
 ## Step 11: Harvesting Safety
@@ -117,6 +125,4 @@ La spiruline est sûre de croître par le fait que son milieu est hautement alca
 
 # Licence du document
 
-credits : Le Biome Hacklab, Xavier Coadic
-Creative commons international 4.0 BY SA
-CC BY SA
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Spiruline 0.2</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Le Biome HackLab, Xavier Coadic</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="lebiome.hacklab@protonmail.com" rel="cc:morePermissions">lebiome.hacklab@protonmail.com</a>.
