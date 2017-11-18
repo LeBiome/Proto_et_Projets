@@ -1,21 +1,18 @@
+--- 
+title: Spiruline 0.2
+descrption: Tutoriel de base pour culture
+image_url: https://framapic.org/jPUa4x5B53dY/lAq1uS7iLkcl.jpeg
+---
+
 # Spiruline 0.2
 
-:::success
-+ texte à revoir librement et collectivement
-  + **WARNING** Traduction from : http://www.instructables.com/id/Food-of-the-Future-Window-DIY-Spirulina-Superfood/ il faut vraimment changer ça ! 
-+ il s'agit de fournir les bases conetxtuelles et un débur de FAQ sur la spiruline
-+ Contribution bienvenue (ajoutez vous au crédit en bas de page sous licence CC BY SA)
-  + Ajout des hyperliens nécessaires
-  + Compléter la FAQ
-  + Ajouter vos ref
-  + Ajouter ou corriger avec vos savoirs
-:::
+Les bases de la culture domestique de spiruline en 15 points. Pour savoir comment contribuer à ces documentations et/ou poser vos questions, utilisez cette [ISSUE](https://github.com/LeBiome/Proto_et_Projets/issues/9)
 
 ## Les étapes
 
 + Spiruline 0 : Histoire de la micro-algue, approche biologique et biblio de références scientifiques
-+ [Spiruline 0.1](https://hackmd.io/s/Hy4cKLuyM#) : Contexte et FAQ
-+ [Spiruline 0.2](https://hackmd.io/s/rk_T3I_Jf#) : Tutoriel de base pour culture
++ [Spiruline 0.1](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.1.md) : Contexte et FAQ
++ [Spiruline 0.2](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.2.md) : Tutoriel de base pour culture
 + Spiruline 0.3 : Culture en environnement garage (soon from résidence Biome à Pasteur)
 + Spiruline 0.4 : Culture en symbiose avec plante et Biofabrics ((soon from résidence Biome à Pasteur))
 + Spiruline 0.5: Culture en symbiose + monotoring arduino et raspberry ((soon from résidence Biome à Pasteur))
@@ -29,45 +26,53 @@ Avoir votre propre "ferme vitrée" à spiruline est l'une des choses les plus fa
 
 Pour développer de la Spiruline à la maison, vous aurez besoin de matériel pour optimiser et automatiser le processus. La plupart d'entre eux sont facilement disponibles en récupération ou dans votre magasin local pour bricolage ou animaux de compagnie ou poissonnerie.
 
-+ Réservoir d'aquarium 10-20 gallons
++ Réservoir d'aquarium ou contenant transparent 25 à 50 litres
 + Pompe à air
-+ Chauffe-eau
++ Chauffe-eau ou LED 15 V OU 25 V
 + bulleur
 + Baguette à bulles
 + Thermomètre
 + Tube de récolte de qualité alimentaire
 + Bandes Ph
-+ Valve Bi
-+ Récolte de tissu (tissu filtrant de 50 microns)
++ Bi-Valve
++ Récolte par tissu (tissu filtrant de 50 microns)
 
-La seule chose que vous aurez besoin d'obtenir d'une source spécifique est votre souche initiale de spiruline. SpirulinaSystems.com est la source la plus abordable.
+La seule chose que vous aurez besoin d'obtenir d'une source spécifique est votre souche initiale de spiruline. Les fermes de psiruline dans votre région sont souvent promptes à partager une souche et transmettre des savoirs. Nous avons à Rennes pris contact avec [www.spirulinedesevigne.com](http://www.spirulinedesevigne.com/fr/)
+
+Nous avons réutilsé des futs de bières transparent KeyKeg qui paratit à la poubelle. Les bars de Rennes les donnent volontiers.
+
+![](https://framapic.org/jPUa4x5B53dY/lAq1uS7iLkcl.jpeg)
 
 
 ## Step 2: Tank Setup
 
 **configuration du réservoir**
 
-Trouvez une fenêtre orientée au sud pour votre réservoir. Vous pouvez soit utiliser une table pour placer le réservoir, ou vous pouvez placer un morceau de bois sur le rebord de la fenêtre pour faire une étagère pour le réservoir. Placez le réservoir sur le dessus. 
+Trouvez une fenêtre orientée au sud pour votre réservoir. Vous pouvez soit utiliser une table pour placer le réservoir, ou vous pouvez placer un morceau de bois sur le rebord de la fenêtre pour faire une étagère pour le réservoir. Placez le réservoir sur le dessus. Les LED peuvent aussi très utiles, avec un tuto Arduino (_à venir_)
 
-:::info
-Vous pouvez également faire pousser de la spiruline dans une serre!
-:::
+![](https://framapic.org/FaUHLpm1YLhR/3GBZgsxJwQLN)
+
+> Vous pouvez également faire pousser de la spiruline dans une serre en extérieur !
 
 ## Step 3: Hardware Setup
 
-Commencez par placer la baguette à bulles contre la paroi du réservoir. Cela va aérer la spiruline et nourrir le CO2 dans la culture. 
+Commencez par placer la baguette à bulles contre la paroi du réservoir. Cela va aérer la spiruline et nourrir avec du CO2 dans la culture. 
 
 Ensuite, placer la ventouse votre appareil de chauffage à la paroi du réservoir. Réglez votre appareil de chauffage à 28 degrés parce que la température de croissance optimale de la spiruline est comprise entre 25°C et 32°C. Le tube de récolte claire est également aspiré au verre du réservoir. Maintenant, lancez votre ligne d'air au bivalve: puis à la baguette à bulles et au fond du tube de qualité alimentaire. La bi-valve vous permet de passer de l'aération à la récolte avec un minimum d'effort.
 
+> Tips :  Lors de la résidence de Biomimétisme à L'Hôtel Pasteur à Rennes, automne 2017, nous avons utilisé des bandes de LED lumières orange et bleu dans un pièce où la température allait de 17°C à 10°C sans jamais avoir d'accident de culture
+
 ## Step 4: Medium
 
-Le milieu de culture est la solution d'eau dans laquelle la spiruline peut pousser le mieux. Puisque la spiruline pousse dans des environnements alcalins, vous devez rendre votre eau alcaline. Cela peut être fait en ajoutant 16 grammes / litre de bicarbonate de sodium à l'eau non chlorée avec d'autres nutriments: Phosphate d'ammonium, sel de mer, nitrate de potassium. Le plus important d'entre eux est bien sûr le bicarbonate de sodium qui crée un environnement qui ressemble aux lacs de cendres dans lesquels la spiruline pousse.
-Pour simplifier le processus, vous pouvez acheter ces nutriments pré mélangés comme je l'ai fait. Encore une fois, SpirulinaSystems était assez abordable.
-2,5 gallons d'eau non chlorée ainsi que 1 tasse de nutriments pré-mélangés sont la quantité recommandée pour démarrer la culture.
+Le milieu de culture est la solution d'eau dans laquelle la spiruline peut pousser le mieux. Puisque la spiruline pousse dans des environnements alcalins, vous devez rendre votre eau alcaline. Cela peut être fait en ajoutant 16 grammes / litre de `bicarbonate de sodium` à l'eau non chlorée avec d'autres nutriments: `Phosphate d'ammonium`, `sel de mer`, `nitrate de potassium`. Le plus important d'entre eux est bien sûr le bicarbonate de sodium qui crée un environnement qui ressemble aux lacs de cendres dans lesquels certaines spirulines poussent. (Voir également [Spiruline 0.1](https://lebiome.github.io/#LeBiome/Proto_et_Projets/blob/master/Spiruline/spiruline-0.1.md)
+
+![](https://framapic.org/hh2GsaCsryFe/JUWOCMOuOHxh.png)
+
+15 litres d'eau non chlorée ainsi que 1 tasse de nutriments pré-mélangés sont la quantité recommandée pour démarrer la culture.
 
 ## Step 5: Adding Your Culture
 
-Une fois que votre poudre de départ s'est dissoute et que votre eau a atteint la température ambiante ou plus, vous pouvez maintenant ajouter de la spiruline au milieu. Ajouter de la spiruline à l'eau froide peut la choquer, c'est comme prendre une douche froide! Ne verser que les 3/4 de votre bouteille afin d'en avoir en réserve au cas où quelque chose arriverait à votre première culture!
+Une fois que votre poudre nutritive de départ s'est dissoute et que votre eau a atteint la température ambiante ou plus, vous pouvez maintenant ajouter de la spiruline au milieu. Ajouter de la spiruline à l'eau froide peut la choquer, c'est comme prendre une douche froide! Ne verser que les 3/4 de votre bouteille de spiruline afin d'en avoir en réserve au cas où quelque chose arriverait à votre première culture!
 
 ## Step 6: Mark You Water Level
 
