@@ -1,4 +1,10 @@
-about hyphae
+--- 
+title: INTRODUCTION Mesh city
+description: Penser et concevoir la ville avec un algorithme en python inspiré du mycélium de champignon
+image_url: 
+---
+
+about Mesh city
 =============
 
 Generates root-like networks where no edges overlap. 
@@ -15,6 +21,7 @@ Code source orignel : https://github.com/inconvergent/hyphae/blob/master/hyphae.
 + Scipy, `sudo apt-get install python-scipy`
 + Moduel cairo, `sudo apt-get install python-cairo`
 
+## tests 
 ```python2.7 /home/xavier/hyphae/hyphae.py```
 :::info
 Done
@@ -60,6 +67,17 @@ It works !
 :::
 > proposition by [Kevin on stackoverflow](https://stackoverflow.com/questions/47575101/python2-7-typeerror-float-object-cannot-be-interpreted-as-an-index/47575377#47575377)
 ![](https://i.imgur.com/5Vkn7ZM.png)
+
+## Un python 2.7
+
+_Correction et update fait - Rename Mily_
+
+![](https://framapic.org/mY2ZDCl7htUE/hJ2csbx2Qayd)
+
+## To Do
+
++ créer un Gif avec les png générés
++ Changer couleur et fond d'image
 
 
 **For Pyhton 3.5**
