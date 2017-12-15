@@ -4,8 +4,7 @@ description: Penser et concevoir la ville avec un algorithme en python inspiré 
 image_url: 
 ---
 
-about Mesh city
-=============
+# about Mesh city
 
 Generates root-like networks where no edges overlap. 
 
@@ -22,11 +21,10 @@ Code source orignel : https://github.com/inconvergent/hyphae/blob/master/hyphae.
 + Moduel cairo, `sudo apt-get install python-cairo`
 
 ## tests 
-```python2.7 /home/xavier/hyphae/hyphae.py```
-:::info
-Done
-:::
+```python2.7 /home/user/hyphae/hyphae.py```
 
+
+### Done 
 Update from `python2.6` to `pyton2.7.13` by adding `()` after all `print`
 
 Fix ``  File "/home/xavier/hyphae/hyphae.py", line 378
@@ -35,9 +33,8 @@ Fix ``  File "/home/xavier/hyphae/hyphae.py", line 378
 IndentationError: expected an indented block
 `` By adding 2 whitespace
 
-:::info
-To do
-:::
+### To do
+
 
 When `python2.7 /home/xavier/hyphae/hyphae.py
 ` Solve
@@ -61,11 +58,10 @@ TypeError: 'float' object cannot be interpreted as an index
 
 > Try converting NMAX to an integer.
 
-> `NMAX = int(2*1e7) # maxmimum number of nodes` 
-:::warning
-It works !
-:::
-> proposition by [Kevin on stackoverflow](https://stackoverflow.com/questions/47575101/python2-7-typeerror-float-object-cannot-be-interpreted-as-an-index/47575377#47575377)
+`NMAX = int(2*1e7) # maxmimum number of nodes` 
+
+**It works !**
+> proposition made by [Kevin on stackoverflow](https://stackoverflow.com/questions/47575101/python2-7-typeerror-float-object-cannot-be-interpreted-as-an-index/47575377#47575377)
 ![](https://i.imgur.com/5Vkn7ZM.png)
 
 ## Un python 2.7
@@ -76,9 +72,18 @@ _Correction et update fait - Rename Mily_
 
 ## To Do
 
-+ créer un Gif avec les png générés
-+ Changer couleur et fond d'image
+Voir [ISSUE dédiée](https://github.com/LeBiome/Proto_et_Projets/issues/13) et contribuer au dialogue dedans
 
++ Créer un Gif avec les png générés
++ Trouver un environnement live pour intépreter les résultat en vidéo ou sous autre format dynamique live.
++ Changer couleur de la progression
++ Travailler fond d'image
++ Passer de laforme ronde à un périmêtre conplexe
++ Intégrer une carte de la ville
++ Interpréter l'agorithme en musique ?
+
+
+![](https://media.giphy.com/media/3oxHQvHrdmjGoRBarC/giphy.gif)
 
 **For Pyhton 3.5**
 Solve ``in <module>
