@@ -3,6 +3,7 @@ title: INTRODUCTION Mesh city
 description: Penser et concevoir la ville avec un algorithme en python inspiré du mycélium de champignon
 image_url: 
 ---
+Démarrélors lors de la résidence de biomimétisme à l'Hôtel Pasteur de Rennes à l'automne 2017, [carnet de bord](https://github.com/LeBiome/Proto_et_Projets/blob/master/mesh/LICENSE)
 
 # about Mesh city
 
@@ -23,6 +24,10 @@ Code source orignel : https://github.com/inconvergent/hyphae/blob/master/hyphae.
 ## tests 
 ```python2.7 /home/user/hyphae/hyphae.py```
 
+## Ce projet
+
++ Le code modifié : [mily.py](https://github.com/LeBiome/Proto_et_Projets/blob/master/mesh/mily.py)
++ Licence du travail: [MIT License](https://github.com/LeBiome/Proto_et_Projets/blob/master/mesh/LICENSE)
 
 ### Done 
 Update from `python2.6` to `pyton2.7.13` by adding `()` after all `print`
